@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["치킨의 종류"],
        "images": ["https://barunchicken.com/storage/product/c7878d3fb8f924604a787f5ffeaaf966_85pXM9YR_68469952030d053e6a29a61a5d8e64f29530a86c.png"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://www.youtube.com/shorts/3H7jAAHgGY4"]
      },
 }
 
