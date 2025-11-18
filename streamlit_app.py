@@ -74,6 +74,16 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://barunchicken.com/storage/product/c7878d3fb8f924604a787f5ffeaaf966_85pXM9YR_68469952030d053e6a29a61a5d8e64f29530a86c.png"],
        "videos": ["https://www.youtube.com/shorts/3H7jAAHgGY4"]
      },
+     labels[1]: {
+       "texts": ["파스타의 종류"],
+       "images": ["https://oasisprodproduct.edge.naverncp.com/79898/detail/3_9a6d2ca3-cda2-45e4-ac9a-2addd1b12d1f.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=-S_G5P5oCMU"]
+     },
+     labels[2]: {
+       "texts": ["피자의 종류"],
+       "images": ["https://www.youngmanpizza.co.kr/upload/M_ori/6678cd0c55350.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=InTPhrn_pmA"]
+     },
 }
 
 # ======================
