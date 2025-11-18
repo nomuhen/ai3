@@ -70,8 +70,8 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "texts": ["치킨의 종류"],
+       "images": ["https://barunchicken.com/storage/product/c7878d3fb8f924604a787f5ffeaaf966_85pXM9YR_68469952030d053e6a29a61a5d8e64f29530a86c.png"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
 }
